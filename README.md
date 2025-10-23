@@ -21,4 +21,5 @@ Economic data was scattered and difficult to update consistently.
 
 Supported evidence-based land-use and freight planning and created a scalable, updatable workflow.
 
-![Uploading Screenshot 2025-09-24 221144.png…]()
+<img width="1385" height="547" alt="Screenshot 2025-09-24 221144" src="https://github.com/user-attachments/assets/0279c783-8da7-4532-a5a8-2c70d4a12f3e" />
+
